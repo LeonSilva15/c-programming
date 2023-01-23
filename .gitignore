@@ -3,3 +3,6 @@
 
 # Compiled files
 *.out
+
+# Segmentation fault file
+core
