@@ -1,1 +1,1 @@
-This sockets project was build in collaboration with Emilio Gonzalez Gonzalez
+This sockets project was built in collaboration with Emilio Gonzalez Gonzalez
