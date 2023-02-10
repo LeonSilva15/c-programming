@@ -1,5 +1,5 @@
 # C Programming
-This is a repository intended to cover all the fundamentals of C Programming based in a MSC in Computer Science program.
+This is a repository intended to cover all the fundamentals of C Programming.
 
 ## Easy compile and run using docker
 We can use a docker container to compile and run our programs without installing any other software in our system.
