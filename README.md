@@ -43,10 +43,10 @@ You can find more on compiling and running in the [GCC official website](https:/
 We can create a function to ease the compilation and running with just one alias
 1. Create alias
 ```bash
-alias run='f(){ gcc -o compiled.out "$@".c && ./compiled.out; unset -f f; }; f'
+alias run='f(){ gcc -o compiled.out "$@" && ./compiled.out; unset -f f; }; f'
 ```
 2. Run alias
 ```bash
-run your_program
+run your_program.c
 ```
 This will compile your_program.c and output in an executable named compiled.out, then executes it.
