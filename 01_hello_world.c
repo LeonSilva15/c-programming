@@ -1,5 +1,5 @@
 /*
- * All headers are precompiled and reviewd code avialable and ready to use
+ * All headers are precompiled and reviewed code avialable and ready to use
  * Import the standard input-ouput header
  */
 #include <stdio.h>
